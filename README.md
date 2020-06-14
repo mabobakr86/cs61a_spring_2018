@@ -1,5 +1,5 @@
 # CS61a - Structure and Interpretation of Computer Programs
-This is labs, homework and projects solutions for Berekely's cs61a spring 2018 course by John DeNero
+This is My labs, homework and projects solutions for Berekely's cs61a spring 2018 course by John DeNero
 [Webpage](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
 
 ## Labs
