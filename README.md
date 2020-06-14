@@ -3,7 +3,7 @@ This is My labs, homework and projects solutions for Berekely's cs61a spring 201
 [Webpage](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
 
 ## Labs
-- [ ] Lab00
+- [x] Lab00
 - [ ] Lab01
 - [ ] Lab02
 - [ ] Lab03
